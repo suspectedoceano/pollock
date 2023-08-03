@@ -1,0 +1,1 @@
+gcc *.c libmlx.a -framework OpenGl -framework AppKit
